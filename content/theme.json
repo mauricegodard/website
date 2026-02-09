@@ -1,0 +1,35 @@
+{
+  "canvas": {
+    "desktop": {
+      "width": 1440
+    },
+    "mobile": {
+      "width": 390,
+      "breakpoint": 768
+    }
+  },
+  "grid": {
+    "size": 8
+  },
+  "colors": {
+    "background": "#ffffff",
+    "text": "#1a1a1a"
+  },
+  "typography": {
+    "fontFamily": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    "fontSize": 16,
+    "fontWeight": 400,
+    "lineHeight": 1.5,
+    "textAlign": "left"
+  },
+  "video": {
+    "autoplay": false,
+    "muted": true
+  },
+  "audio": {
+    "autoplay": false,
+    "muted": false,
+    "loop": false,
+    "controls": true
+  }
+}
